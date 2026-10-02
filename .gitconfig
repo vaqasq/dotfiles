@@ -1,0 +1,7 @@
+[user]
+	name = HealingAura32
+	email = vqudus@gmail.com
+[init]
+	defaultBranch = main
+[credential]
+	helper = osxkeychain
